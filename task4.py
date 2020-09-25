@@ -9,7 +9,6 @@
 #    4) Get author with the highest rating
 #    5) Get author with the lowest rating
 #    6) Get average rating among all authors
-# class
 
 import csv
 
